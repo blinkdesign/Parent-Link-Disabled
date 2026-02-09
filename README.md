@@ -1,9 +1,8 @@
-/**
- * @project:   Update Package Autonav Template Parent Link Disabled
- * @copyright  (C) 2020-2025 www.blink.ch
- * @author     blinkbox 2025-11-20
- * @version    1.0.1
- */
+@project:   Update Package Autonav Template Parent Link Disabled
+@copyright  (C) 2020-2025 www.blink.ch
+@author     blinkbox 2025-11-20
+@version    1.0.1
+
 
 README
 ***** [UPDATE] (Parent Link Disabled) ***
