@@ -1,12 +1,9 @@
-@project:   Update Package Autonav Template Parent Link Disabled
-@copyright  (C) 2020-2025 www.blink.ch
-@author     blinkbox 2025-11-20
-@version    1.0.1
-
-
 README
 ***** [UPDATE] (Parent Link Disabled) ***
-Autonav template using built-in "Responsive Header Navigation" for pages without Link, similar to attribute "Replace Link with First in Nav". Page has no link (dead link), but on hover or click it shows all links to available subpages. Installs a page attribute "parent_link_disabled". © blink.ch 2020-02-28 für dancestudiomaja.ch 
+Autonav template using built-in "Responsive Header Navigation" for pages without Link, similar to attribute "Replace Link with First in Nav". Page has no link (dead link), but on hover or click it shows all links to available subpages. Installs a page attribute "parent_link_disabled". © blink.ch 2020-02-28 für dancestudiomaja.ch –  @project:   Update Package Autonav Template Parent Link Disabled  @copyright  (C) 2020-2025 www.blink.ch  @author     blinkbox 2025-11-20  @version    1.0.1
+
+
+
 
 # Installation Instructions
 1. Unzip this file in your site's packages/ directory.
