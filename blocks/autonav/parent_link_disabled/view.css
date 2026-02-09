@@ -1,0 +1,11 @@
+.ccm-responsive-overlay {
+    display: none;
+}
+div.ccm-page a[href="#"] { 
+  cursor: -webkit-grab;
+  cursor: grab;
+  /*color: #66ccff;
+  display: inline-block;*/
+  pointer-events: none;
+  text-decoration: none;
+}
