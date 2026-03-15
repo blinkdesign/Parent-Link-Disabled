@@ -1,5 +1,5 @@
-README
-Parent Link Disabled (UPDATE)
+**Parent Link Disabled (UPDATE)**
+
 Autonav template using built-in "Responsive Header Navigation" for pages without Link, similar to attribute "Replace Link with First in Nav". Page has no link (dead link), but on hover or click it shows all links to available subpages. Installs a page attribute "parent_link_disabled". 
 © blink.ch 2020-02-28 für dancestudiomaja.ch
 
